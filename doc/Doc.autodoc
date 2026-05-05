@@ -1,0 +1,15 @@
+@Chapter Category of presheaves of a (linear) category
+
+@Section Attributes
+@Section Constructors
+@Section Operations
+@Section GAP categories
+@Section Examples
+
+@Subsection The terminal category
+
+@InsertChunk TerminalCategory
+
+@Subsection The category of presheaves of <C>SkeletalFinSets</C>
+
+@InsertChunk PreSheavesOfSkeletalFinSets
